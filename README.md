@@ -1,4 +1,5 @@
-here will be 20 python projects that ChatGPT recommended me:
+# here will be 20 python projects that ChatGPT recommended me:
+
 BMI Calculator: A program that calculates the Body Mass Index (BMI) based on user input.
 
 Task Manager: A simple application for managing a task list, allowing users to add, delete, and mark tasks as completed.
