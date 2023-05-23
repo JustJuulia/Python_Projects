@@ -1,4 +1,5 @@
 # here will be 20 python projects that ChatGPT recommended me:
+(most of them will be in console but dw i may update them someday if i will feel like it :D)
 
 ✔️ BMI Calculator: A program that calculates the Body Mass Index (BMI) based on user input.
 
