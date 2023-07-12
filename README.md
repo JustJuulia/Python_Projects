@@ -15,6 +15,8 @@
 
 ✔️ Currency Converter: A program that fetches current exchange rates and enables conversion between different currencies.
 
+✔️ Dice Rolling Simulator: A program that simulates rolling dice for games, allowing users to choose the number and type of dice.
+
 Text Analyzer: A tool for analyzing text, counting words, characters, lines, generating statistics, and charts.
 
 Project Management Application: A tool for creating and managing projects, tasks, deadlines, and team members.
@@ -28,8 +30,6 @@ Reminder App: An application that reminds users of important events such as birt
 Meme Generator: A program that allows users to create memes by adding text to images.
 
 Hotel Reservation System: An application for handling hotel room reservations, with options to view available dates and amenities.
-
-Dice Rolling Simulator: A program that simulates rolling dice for games, allowing users to choose the number and type of dice.
 
 Twitter Data Analyzer: A tool for analyzing and visualizing data from Twitter, such as hashtag popularity or user sentiment.
 
