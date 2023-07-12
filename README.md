@@ -11,6 +11,8 @@
 
 ✔️ User Registration System: A program that handles user registration and login processes, with data storage in a file or database.
 
+✔️ Random Fact Generator: A program that generates random facts from various domains, such as science, history, or sports.
+
 Text Analyzer: A tool for analyzing text, counting words, characters, lines, generating statistics, and charts.
 
 Currency Converter: A program that fetches current exchange rates and enables conversion between different currencies.
@@ -30,8 +32,6 @@ Hotel Reservation System: An application for handling hotel room reservations, w
 Dice Rolling Simulator: A program that simulates rolling dice for games, allowing users to choose the number and type of dice.
 
 Twitter Data Analyzer: A tool for analyzing and visualizing data from Twitter, such as hashtag popularity or user sentiment.
-
-✔️ Random Fact Generator: A program that generates random facts from various domains, such as science, history, or sports.
 
 File Sharing System: An application that enables users to send and share files with options for access management.
 
