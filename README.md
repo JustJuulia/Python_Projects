@@ -3,7 +3,7 @@
 
 ✔️ BMI Calculator: A program that calculates the Body Mass Index (BMI) based on user input.
 
-Task Manager: A simple application for managing a task list, allowing users to add, delete, and mark tasks as completed.
+✔️ Task Manager: A simple application for managing a task list, allowing users to add, delete, and mark tasks as completed.
 
 ✔️ Password Generator: A program that generates random, strong passwords with options to customize length and character types.
 
