@@ -13,9 +13,9 @@
 
 ✔️ Random Fact Generator: A program that generates random facts from various domains, such as science, history, or sports.
 
-Text Analyzer: A tool for analyzing text, counting words, characters, lines, generating statistics, and charts.
+✔️ Currency Converter: A program that fetches current exchange rates and enables conversion between different currencies.
 
-Currency Converter: A program that fetches current exchange rates and enables conversion between different currencies.
+Text Analyzer: A tool for analyzing text, counting words, characters, lines, generating statistics, and charts.
 
 Project Management Application: A tool for creating and managing projects, tasks, deadlines, and team members.
 
