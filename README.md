@@ -7,7 +7,7 @@
 
 ✔️ Password Generator: A program that generates random, strong passwords with options to customize length and character types.
 
-Address Book: An application for storing contacts as an address book, allowing users to add, delete, and edit entries.
+✔️ Phone Book: An application for storing contacts, allowing users to add, delete, and edit entries.
 
 User Registration System: A program that handles user registration and login processes, with data storage in a file or database.
 
