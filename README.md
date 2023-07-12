@@ -31,7 +31,7 @@ Dice Rolling Simulator: A program that simulates rolling dice for games, allowin
 
 Twitter Data Analyzer: A tool for analyzing and visualizing data from Twitter, such as hashtag popularity or user sentiment.
 
-Random Fact Generator: A program that generates random facts from various domains, such as science, history, or sports.
+✔️ Random Fact Generator: A program that generates random facts from various domains, such as science, history, or sports.
 
 File Sharing System: An application that enables users to send and share files with options for access management.
 
