@@ -9,7 +9,7 @@
 
 ✔️ Phone Book: An application for storing contacts, allowing users to add, delete, and edit entries.
 
-User Registration System: A program that handles user registration and login processes, with data storage in a file or database.
+✔️ User Registration System: A program that handles user registration and login processes, with data storage in a file or database.
 
 Text Analyzer: A tool for analyzing text, counting words, characters, lines, generating statistics, and charts.
 
